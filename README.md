@@ -12,5 +12,15 @@
 
 点击 `watch` 可以得到更新信息哟！
 
-<!-- # WARNING: 注意点 -->
+<!-- # WARNING: 注意 -->
 
+# 资源分类
+
+- **[Movie 影视](Movie.md)**
+- **[Anime 动漫](Anime.md)**
+- **[Game 游戏](Game.md)**
+- **[Music 音乐](Music.md)**
+- **[Software 软件](Software.md)**
+- **[Learn 学习](Learn.md)**
+- **[EBook 电子书](EBook.md)**
+- **[Development 开发](Development.md)**

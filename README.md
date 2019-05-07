@@ -24,3 +24,15 @@
 - **[Learn 学习](Learn.md)**
 - **[EBook 电子书](EBook.md)**
 - **[Development 开发](Development.md)**
+
+# 综合
+
+## 网盘搜索
+
+- **[西林街搜索](http://www.xilinjie.com/)**
+- **[Infinite Panc 胖次网盘搜索](https://www.panc.cc/)**
+- **[盘 多 多](http://www.panduoduo.net/)**
+
+## BT 搜索
+
+- **[btspread](http://btspread.la/)**

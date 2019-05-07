@@ -16,7 +16,9 @@
 - **[dou2](https://github.com/phodal/dou2)**: 一份面向残疾地区的，简单的无障碍上网指南
 - **[dog-tunnel](https://github.com/vzex/dog-tunnel)**:p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp) https://github.com/vzex/dog-tunnel
 
----
+## Mac OS
+
+- **[爱情守望者](https://www.waitsun.com/)**: 精品 Mac 应用分享
 
 ## 下载工具
 

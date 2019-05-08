@@ -17,7 +17,9 @@
 - **[dog-tunnel](https://github.com/vzex/dog-tunnel)**: p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp) https://github.com/vzex/dog-tunnel
 - **[v2ray](https://github.com/v2ray/v2ray-core/)**: A platform for building proxies to bypass network restrictions. https://www.v2ray.com/
 
----
+## Mac OS
+
+- **[爱情守望者](https://www.waitsun.com/)**: 精品 Mac 应用分享
 
 ## 下载工具
 

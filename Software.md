@@ -14,7 +14,8 @@
 - **[WebSiteUseful](https://github.com/loremwalker/WebSiteUseful)**: 翻墙！冲出你的窗口，详细教程请看：https://github.com/loremwalker/fq-book
 - **[openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang)**: 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks https://fanqiang.software-download.name
 - **[dou2](https://github.com/phodal/dou2)**: 一份面向残疾地区的，简单的无障碍上网指南
-- **[dog-tunnel](https://github.com/vzex/dog-tunnel)**:p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp) https://github.com/vzex/dog-tunnel
+- **[dog-tunnel](https://github.com/vzex/dog-tunnel)**: p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp) https://github.com/vzex/dog-tunnel
+- **[v2ray](https://github.com/v2ray/v2ray-core/)**: A platform for building proxies to bypass network restrictions. https://www.v2ray.com/
 
 ---
 

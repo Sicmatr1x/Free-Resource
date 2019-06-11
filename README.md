@@ -20,6 +20,7 @@
 - **[Anime 动漫](Anime.md)**
 - **[Game 游戏](Game.md)**
 - **[Music 音乐](Music.md)**
+- **[Image 图片](Image.md)**
 - **[Software 软件](Software.md)**
 - **[Learn 学习](Learn.md)**
 - **[EBook 电子书](EBook.md)**

@@ -10,3 +10,22 @@
 - **[电波字幕组](http://dbfansub.com/category/tvshow/baskets/)**
 
 ## 网盘
+
+- **[如 风 搜](http://www.rufengso.net/)**
+
+## 下载工具相关
+
+- **[TrackersListCollection: 全网热门公共 BitTorrent Tracker 列表！](https://github.com/XIU2/TrackersListCollection)**
+- **[BitComet](http://www.bitcomet.com)**
+- **[qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)**
+- **[qBittorrent](https://www.qbittorrent.org)**
+
+### Tracker Source
+
+- https://github.com/ngosang/trackerslist
+- https://newtrackon.com/list
+- https://torrents.io/tracker-list/
+- http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+- https://tinytorrent.net/best-torrent-tracker-list-updated/
+- https://torrenttrackerss.com/torrent-tracker-list/
+- http://www.torrenttrackerlist.com/torrent-tracker-list

@@ -19,6 +19,7 @@
 - **[BitComet](http://www.bitcomet.com)**
 - **[qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)**
 - **[qBittorrent](https://www.qbittorrent.org)**
+- **[aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. ](https://github.com/aria2/aria2)**
 
 ### Tracker Source
 

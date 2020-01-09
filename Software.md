@@ -21,6 +21,10 @@
 
 - **[爱情守望者](https://www.waitsun.com/)**: 精品 Mac 应用分享
 
+## Chrome Extension
+
+- **[chrome-extension-downloader](https://chrome-extension-downloader.com/)**: 使用Chrome应用商店扩展程序ID查找并下载.crx包
+
 ## 下载工具
 
 - **[Resilio Sync](https://www.resilio.com/individuals-sync/)**:Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology

@@ -1,5 +1,61 @@
 # Development 开发
 
+## GitHub下载加速
+
+### 改 `host`方法
+
+1. 查IP：https://www.ipaddress.com/
+2. 改`/etc/hosts`
+
+```
+192.30.253.113  github.com
+151.101.185.194 github.global.ssl.fastly.net
+192.30.253.120  codeload.github.com
+```
+
+3. 重启网络`sudo /etc/init.d/networking restart`
+
+### socket5代理方法
+
+Linux:
+
+```
+export ALL_PROXY=socks5://127.0.0.1:1080
+```
+
+### 代下载服务方法
+
+- **[GitHub代下载服务](https://g.widora.cn/)**: Git克隆慢？外网源码包没速度？
+- **[加速你的Github](https://github.zhlh6.cn/)**: 利用ucloud提供的GlobalSSH功能，对ssh协议数据进行加速
+- **[Github RAW Accelerate](https://raw.staticdn.net/)**: 将 raw.githubusercontent.com，替换为 raw.staticdn.net 即可。
+- **[githubd](https://githubd.com/#/)**: 加速下载
+- **[GitHub 文件加速](https://shrill-pond-3e81.hunsh.workers.dev/)**: GitHub文件链接带不带协议头都可以，支持release、archive以及文件
+
+### Microsoft Azure Notebooks 代下载方法
+
+1. 打开[Microsoft Azure Notebooks](https://notebooks.azure.com/)
+2. 登录你的微软账号登录或者注册微软账号，如果你不会注册，说明这个办法不适合你。
+3. 新建一个notebook环境已经预装了git
+4. 使用git 命令或者wget命令将github资源下载到微软服务器。5.在从微软下载
+
+
+### 设置 git 缓存区方法
+
+```
+#增加git缓存区大小：
+git config --global http.postBuffer 2000000000
+#压缩配置
+git config --global core.compression -1 
+#修改配置文件
+export GIT_TRACE_PACKET=1
+export GIT_TRACE=1
+export GIT_CURL_VERBOSE=1
+```
+
+### 其它方法
+
+- **[Chrome插件：GitHub加速](https://chrome.google.com/webstore/detail/github%E5%8A%A0%E9%80%9F/mfnkflidjnladnkldfonnaicljppahpg?utm_source=chrome-ntp-icon)**: 插件ID: mfnkflidjnladnkldfonnaicljppahpg
+
 ## GitHub 开源
 
 - **[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh)**: 国内免费服务聚合

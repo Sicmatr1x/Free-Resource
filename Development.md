@@ -56,7 +56,7 @@ export GIT_CURL_VERBOSE=1
 
 - **[Chrome插件：GitHub加速](https://chrome.google.com/webstore/detail/github%E5%8A%A0%E9%80%9F/mfnkflidjnladnkldfonnaicljppahpg?utm_source=chrome-ntp-icon)**: 插件ID: mfnkflidjnladnkldfonnaicljppahpg
 
-## GitHub 开源
+## GitHub 开源项目
 
 - **[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh)**: 国内免费服务聚合
 - **[RW_Password](https://github.com/r35tart/RW_Password)**: 此项目用来提取收集以往泄露的密码中符合条件的强弱密码
@@ -70,6 +70,11 @@ export GIT_CURL_VERBOSE=1
 - **[awesome-java](https://github.com/akullpp/awesome-java)**: A curated list of awesome frameworks, libraries and software for the Java programming language.
 - **[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)**: 中国独立开发者项目列表 -- 分享大家都在做什么。
 - **[programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)**: 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 http://coder.shengxinjing.cn/
+
+## Chrome Extension 第三方下载
+
+- **[收藏猫：插件下载](https://pictureknow.com/extensions)**
+- **[chrome-extension-downloader](https://chrome-extension-downloader.com/)**: 根据插件ID下载crx文件
 
 ## JetBrains
 

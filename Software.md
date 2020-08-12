@@ -29,3 +29,23 @@
 
 - **[Resilio Sync](https://www.resilio.com/individuals-sync/)**:Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology
 - **[raspberry-pi-sync](https://github.com/willjasen/raspberry-pi-sync)**: installs resilio sync on raspberry pi
+
+## 社交
+
+### Discord
+
+大陆访问Discord不了的可以尝试编辑电脑 hosts文件
+
+```
+104.16.248.144   dl.discordapp.net
+104.16.60.37   gateway.discord.gg
+104.16.11.231  status.discordapp.com
+104.16.9.231    cdn.discordapp.com
+104.16.59.5  discordapp.com
+104.16.248.144 media.discordapp.net
+104.16.249.144 images-ext-2.discordapp.net
+104.16.248.144 images-ext-1.discordapp.net
+151.101.78.214  static-cdn.jtvnw.net
+```
+
+添加以上信息

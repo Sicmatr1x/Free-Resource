@@ -8,7 +8,7 @@
 
 本文介绍的是利用互联网可以访问到的各种免费资源，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖通过各种渠道下载并保存的无版权媒体资源。
 
-**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2020 年 08 月 01 日
+**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2020 年 08 月 11 日
 
 点击 `watch` 可以得到更新信息哟！
 
@@ -34,11 +34,13 @@
 - ~~**[Infinite Panc 胖次网盘搜索](https://www.panc.cc/)**~~
 - ~~**[盘 多 多](http://www.panduoduo.net/)**~~
 - ~~**[如 风 搜](http://www.rufengso.net/)**~~
+- **[小可搜搜](https://www.xiaokesoso.com/)**
 
 ## BT 搜索
 
 - ~~**[btspread](http://btspread.la/)**~~
 - **[magnetW 磁力聚合搜索开源软件 GitHub Repo](https://github.com/xiandanin/magnetW)**
+- **[btdad](http://www.btdad.shop/)**
 
 
 ## 下载工具相关

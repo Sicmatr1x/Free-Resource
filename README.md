@@ -8,7 +8,7 @@
 
 本文介绍的是利用互联网可以访问到的各种免费资源，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖通过各种渠道下载并保存的无版权媒体资源。
 
-**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2020 年 08 月 11 日
+**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2020 年 09 月 21 日
 
 点击 `watch` 可以得到更新信息哟！
 
@@ -27,6 +27,10 @@
 - **[Development 开发](Development.md)**
 
 # 综合
+
+## 科学上网
+
+- **[proxysu/windows](https://github.com/proxysu/windows)**: V2ray , Trojan, Trojan-go, NaiveProxy, shadowsocksR install tools for windows V2ray，Trojan，Trojan-go, NaiveProxy, shadowsocksR的一键安装工具windows下用（一键科学上网）
 
 ## 网盘搜索
 

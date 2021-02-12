@@ -8,7 +8,7 @@
 
 本文介绍的是利用互联网可以访问到的各种免费资源，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖通过各种渠道下载并保存的无版权媒体资源。
 
-**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2020 年 09 月 21 日
+**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2021 年 02 月 12 日
 
 点击 `watch` 可以得到更新信息哟！
 
@@ -30,37 +30,19 @@
 
 ## 科学上网
 
+### 系统教程 ABC Guride
+
+- **[Alvin9999/new-pac](https://github.com/Alvin9999/new-pac/wiki)**: 科学上网系统性教程
+
+### VPN
+
+- **[vpncn/vpncn.github.io](https://github.com/hq450/fancyss_history_package)**: 2021中国翻墙软件VPN推荐指南，以及对比VPS搭建梯子、SSR机场、蓝灯、WireGuard、V2ray、老王VPN等科学上网软件与翻墙方法，中国最新科学上网翻墙VPN梯子下载推荐，稳定好用。
+
+### 梯子(PC端)
+
 - **[proxysu/windows](https://github.com/proxysu/windows)**: V2ray , Trojan, Trojan-go, NaiveProxy, shadowsocksR install tools for windows V2ray，Trojan，Trojan-go, NaiveProxy, shadowsocksR的一键安装工具windows下用（一键科学上网）
+- **[sglfree/freesky](https://github.com/hq450/fancyss_history_package)**: 自由门、无界
 
-## 网盘搜索
+### 梯子(路由器)
 
-- ~~**[西林街搜索](http://www.xilinjie.com/)**~~
-- ~~**[Infinite Panc 胖次网盘搜索](https://www.panc.cc/)**~~
-- ~~**[盘 多 多](http://www.panduoduo.net/)**~~
-- ~~**[如 风 搜](http://www.rufengso.net/)**~~
-- **[小可搜搜](https://www.xiaokesoso.com/)**
-
-## BT 搜索
-
-- ~~**[btspread](http://btspread.la/)**~~
-- **[magnetW 磁力聚合搜索开源软件 GitHub Repo](https://github.com/xiandanin/magnetW)**
-- **[btdad](http://www.btdad.shop/)**
-
-
-## 下载工具相关
-
-- **[BitComet](http://www.bitcomet.com)**
-- **[qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)**
-- **[qBittorrent](https://www.qbittorrent.org)**
-- **[aria2](https://github.com/aria2/aria2)**
-
-### Tracker Source (List of public BitTorrent trackers)
-
-- **[TrackersListCollection: 全网热门公共 BitTorrent Tracker 列表！](https://github.com/XIU2/TrackersListCollection)**
-- **[ngosang / trackerslist](https://github.com/ngosang/trackerslist)**
-- **[newtrackon: list](https://newtrackon.com/list)**
-- **[torrents.io: tracker-list](https://torrents.io/tracker-list/)**
-- **[OpenTracker](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)**
-- **[tinytorrent.net: best-torrent-tracker-list-updated](https://tinytorrent.net/best-torrent-tracker-list-updated/)**
-- **[torrenttrackerss.com: torrent-tracker-list](https://torrenttrackerss.com/torrent-tracker-list/)**
-- **[torrenttrackerlist.com: torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)**
+- **[hq450/fancyss_history_package](https://github.com/hq450/fancyss_history_package)**: 科学上网插件的离线安装包储存在这里。路由器梅林、华硕固件等

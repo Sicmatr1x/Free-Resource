@@ -1,5 +1,9 @@
 # Movie 影视
 
+## 字幕
+
+- [字幕库 综合搜索](http://zimuku.org/)
+
 ## 在线观看
 
 - **[ZY-Player](https://github.com/cuiocean/ZY-Player)**: 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值。支持在线观看电影、纪录片、美剧
@@ -27,6 +31,7 @@
 - ~~**[btspread](http://btspread.la/)**~~
 - **[magnetW 磁力聚合搜索开源软件 GitHub Repo](https://github.com/xiandanin/magnetW)**
 - **[btdad](http://www.btdad.shop/)**
+- **[torrentgalaxy 国外种子磁力搜索](https://torrentgalaxy.to/)**
 
 
 ### BT 下载工具

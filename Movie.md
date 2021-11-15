@@ -16,6 +16,11 @@
 - ~~**[盘 多 多](http://www.panduoduo.net/)**~~
 - ~~**[如 风 搜](http://www.rufengso.net/)**~~
 - **[小可搜搜](https://www.xiaokesoso.com/)**
+- **[阿里盘搜](https://www.alipanso.com/)**
+- **[阿里小站](https://aliyunshare.cn/)**
+- **[分派电影](https://ifenpaidy.com/)**
+- **[T-REX 只有202108以后电影](https://t-rex.tzfile.com/)**
+- **[云盘资源网](https://www.yunpanziyuan.com/)**
 
 ## 影视下载站点
 

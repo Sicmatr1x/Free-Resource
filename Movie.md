@@ -3,6 +3,7 @@
 ## 字幕
 
 - [字幕库 综合搜索](http://zimuku.org/)
+- 
 
 ## 在线观看
 
@@ -28,6 +29,10 @@
 - **[电影天堂2](https://www.dy2018.com/)**
 - **[阳光电影](https://www.ygdy8.com/)**
 - **[电波字幕组](http://dbfansub.com/category/tvshow/baskets/)**
+- **[人人影视分享站](https://yyets.dmesg.app/home)**: GitHub Repo: [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+- **[中国高清网](http://gaoqing.la/)**
+- **[高清电影天堂](https://www.gaoqing888.com/)**
+
 
 ## BT 相关
 

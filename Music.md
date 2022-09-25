@@ -5,6 +5,7 @@
 
 - **[nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)**: 解锁网易云音乐客户端变灰歌曲。使用 QQ / 虾米 / 百度 / 酷狗 / 酷我 / 咪咕 / JOOX 音源替换变灰歌曲链接。完整的流量代理功能 (HTTP / HTTPS)，可直接作为系统代理 (同时支持 PAC)
 - **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)**: 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+**[unblockneteasemusic-desktop](https://github.com/Constaline/unblockneteasemusic-desktop)**: Windows Desktop version, 带操作界面
 
 ## 下载软件
 
@@ -12,3 +13,4 @@
 - **[Ben Sound] (https://www.bensound.com/)**: Works natively on chrome. Download royalty and copyright free samples of music for your own use.
 - **[MixKit] (https://mixkit.co/free-stock-music/)** : Just like Ben Sound but shorter clips. No need to be afraid of copyrights as all the clips are royalty free!
 - **[Jamendo] (https://www.jamendo.com/start)** : Large library of  royalty free songs.
+- **[hikarinoakari] (https://hikarinoakari.com/)** : Japan Music in High Quality.

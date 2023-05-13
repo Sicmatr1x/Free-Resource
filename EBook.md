@@ -7,3 +7,5 @@
 - **[Calibre Webserver 3](https://wenyuange.org)**
 - **[Calibre Webserver 4](http://nas.9696.pub:8083)**
 - **[gist: Calibre Webserver 自动下载脚本](https://gist.github.com/syhily/9feb936bcaebf2beec567733810f4666)**
+- **[Z-Library镜像站地址]**(https://www.ahhhhfs.com/32816/)
+- [the Pirate Library Mirror](http://pilimi.org/)

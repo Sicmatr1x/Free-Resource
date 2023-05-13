@@ -8,6 +8,8 @@
 - **[Calibre Webserver 4](http://nas.9696.pub:8083)**
 - **[gist: Calibre Webserver 自动下载脚本](https://gist.github.com/syhily/9feb936bcaebf2beec567733810f4666)**
 - **[Z-Library镜像站地址](https://www.ahhhhfs.com/32816/)**
+- [7TB图书种子打包](https://abskoop.lanzouj.com/iMFw007vcvpc)
+
 
 海盗图书馆镜像Z-Library数据库种子磁力
 - [the Pirate Library Mirror 官网](http://pilimi.org/)
